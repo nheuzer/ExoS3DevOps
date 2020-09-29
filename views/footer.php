@@ -1,5 +1,7 @@
 		<div id="pied">
+
 		conflit b
+            Conflit A
 			<strong>Excellente journée qu'aujourd'hui le <?php echo $date ?></strong> :: 
 			<?php $time_end = microtime(true);
 				  $time = number_format(($time_end - $time_start)*1000,6);
